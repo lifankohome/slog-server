@@ -1,0 +1,24 @@
+{
+  "name": "@lifanko/slog-server",
+  "version": "1.0.0",
+  "description": "Receive and publish real time log",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Slog Server",
+    "Real Time Log"
+  ],
+  "author": "lifanko",
+  "homepage": "https://www.lifanko.cn/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifankohome/slog-server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}

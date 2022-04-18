@@ -1,0 +1,17 @@
+{
+  "ws": {
+    "enable": true,
+    "port": 8080,
+    "path": "/slog"
+  },
+  "http": {
+    "enable": true,
+    "port": 8081,
+    "path": ""
+  },
+  "socket": {
+    "enable": false,
+    "port": 8082,
+    "path": ""
+  }
+}
