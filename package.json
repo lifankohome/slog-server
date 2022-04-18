@@ -20,5 +20,9 @@
   "license": "MIT",
   "dependencies": {
     "ws": "^8.5.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
